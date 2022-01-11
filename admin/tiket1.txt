@@ -1,0 +1,4 @@
+No. Flight : GT 572
+Time : 10.00
+Destination : Jayapura
+Status : Delay

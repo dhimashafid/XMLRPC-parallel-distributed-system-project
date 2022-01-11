@@ -1,0 +1,4 @@
+No. Flight : GT 572
+Time : 01.00
+Destination : Bandung
+Status : Delay
